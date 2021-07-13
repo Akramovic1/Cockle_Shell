@@ -1,5 +1,4 @@
-# Cockle_Shell
-# Simple Shell (Multi-Processing)
+# Cockle_Shell - Simple Shell (Multi-Processing)
 
 
 
