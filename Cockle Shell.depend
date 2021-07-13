@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619815278 source:/home/ovic/Desktop/Coding/Cockle Shell/main.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<sys/wait.h>
+	<sys/resource.h>
+	<signal.h>
+	<stdlib.h>
+	<fcntl.h>
+
