@@ -24,5 +24,5 @@ The shell support the following commands:
 5. Shell builtin commands
     * **Commands**: cd & echo
     * **Details**: for the case of:
-        * **cd**:
-        * **echo**:
+        * **cd**
+        * **echo**
