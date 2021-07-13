@@ -1,9 +1,5 @@
 # Cockle_Shell - Simple Shell (Multi-Processing)
 
-
-
-## 2. Problem Statement
-
 It is a Unix shell program. A shell is simply a program that conveniently allows you to run other programs.
 
 The shell support the following commands:
